@@ -1,0 +1,31 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\mesyp17\mesyp17.windows\obj\x64\release\intermediatexaml\mesyp17.windows.exe" HashGuid="188cad69-ecd3-5c8c-4cb0-ad0c77d085cd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugins.forms.imagecircle.1.8.1\lib\win81\imagecircle.forms.plugin.abstractions.dll" HashGuid="28ac2fb9-7479-5917-8c17-c740eb4f0887" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugins.forms.imagecircle.1.8.1\lib\win81\imagecircle.forms.plugin.windowsstore.dll" HashGuid="dd40e1e6-5a3a-09a3-4326-909c0fa342cd" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\mesyp17\mesyp17\bin\release\mesyp17.dll" HashGuid="0feee2fa-8160-5979-0cce-b9d239e11a0c" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugin.connectivity.3.0.2-beta117\lib\netstandard1.0\plugin.connectivity.abstractions.dll" HashGuid="16be99df-eb39-34ba-87d3-c572b5233060" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugin.connectivity.3.0.2-beta117\lib\netstandard1.0\plugin.connectivity.dll" HashGuid="75338f3c-1dcb-b41d-ad0b-3528bdd9e095" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugin.geolocator.4.0.1\lib\netstandard1.0\plugin.geolocator.abstractions.dll" HashGuid="c08ca832-6b34-6cdf-c478-61fd0eec1a63" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugin.geolocator.4.0.1\lib\netstandard1.0\plugin.geolocator.dll" HashGuid="2c237b9f-6be0-acd8-6941-5f2ef2be3dc4" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugins.notifier.2.1.0\lib\win8\plugin.localnotifications.abstractions.dll" HashGuid="d160abda-3ec3-e837-8724-71293489694b" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugins.notifier.2.1.0\lib\win8\plugin.localnotifications.dll" HashGuid="7415920d-61f5-d357-2f44-e7c901d10071" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugins.messaging.4.0.0\lib\win8\plugin.messaging.abstractions.dll" HashGuid="51fded91-586c-379f-6ae2-4c259110d583" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugins.messaging.4.0.0\lib\win8\plugin.messaging.dll" HashGuid="fc656e7b-0b31-2a41-6fa1-d43dc6cfe083" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugins.settings.3.0.1\lib\netstandard1.0\plugin.settings.abstractions.dll" HashGuid="f9e02d80-0ed8-b4f9-1811-c5419539eeaa" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xam.plugins.settings.3.0.1\lib\netstandard1.0\plugin.settings.dll" HashGuid="fef7a65c-94db-a540-5daa-dcbfc0b519b6" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\sqlite-net-pcl.1.1.1\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\sqlite-net.dll" HashGuid="0a2e9807-5f0b-b08f-1154-66e6bd69af34" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\sqlitepcl.raw.0.8.6\lib\win81\sqlitepcl.raw.dll" HashGuid="0baa1da8-0d9c-7172-77d3-726d0a786d73" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\system.runtime.interopservices.runtimeinformation.4.3.0\lib\win8\system.runtime.interopservices.runtimeinformation.dll" HashGuid="6560d00f-0bb0-0755-5423-c4e1bf779127" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xamarin.forms.2.3.5.256-pre6\lib\win81\xamarin.forms.core.dll" HashGuid="bd745434-4f40-0e43-aff0-7f1559c3089b" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xamarin.forms.2.3.5.256-pre6\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xamarin.forms.2.3.5.256-pre6\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="5a8ac60f-825a-9385-f9c9-5052bcbf9c82" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xamarin.forms.2.3.5.256-pre6\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="52413e42-cf52-a305-9da6-4ba7bec82dc1" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\xamarin.forms.2.3.5.256-pre6\lib\win81\xamarin.forms.xaml.dll" HashGuid="c9c9090f-01bb-26b9-875e-551037645f93" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\zxing.net.mobile.2.2.9\lib\portable-net45+netcore45+wpa81+wp8\zxing.net.mobile.core.dll" HashGuid="7aa4f724-4bb3-e9fb-9368-8d6dda6c35ce" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\zxing.net.mobile.forms.2.2.9\lib\portable-net45+netcore45+wpa81+wp8\zxing.net.mobile.forms.dll" HashGuid="56a5c536-46b3-958f-bbb3-2c1e324dd6eb" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\zxing.net.mobile.2.2.9\lib\portable-net45+netcore45+wpa81+wp8\zxing.portable.dll" HashGuid="2c460ee3-2f07-621e-867f-01a5625d5fbf" />
+    <ReferenceAssembly PathName="c:\users\falco\documents\visual studio 2015\projects\mesyp17\packages\zxing.net.mobile.2.2.9\lib\portable-net45+netcore45+wpa81+wp8\zxingnetmobile.dll" HashGuid="403fe390-b491-4e51-9a7d-0f329a385624" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

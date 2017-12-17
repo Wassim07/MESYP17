@@ -1,0 +1,2 @@
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.UWP\MESYP17.UWP.csproj;x86
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\MESYP17.csproj;neutral

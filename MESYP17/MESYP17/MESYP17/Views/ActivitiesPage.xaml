@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:expandibleListView="clr-namespace:MESYP17.Helpers.ExpandibleListView;assembly=MESYP17"
+             x:Class="MESYP17.Views.ActivitiesPage"
+             Title="Activities">
+    <Grid x:Name="grid" VerticalOptions="Fill" HorizontalOptions="Fill" Padding="0,0,0,0" BackgroundColor="#042536">
+        <ListView x:Name="ItemsListView" SeparatorVisibility="None" SeparatorColor="Transparent" BackgroundColor="Transparent" HorizontalOptions="Fill" VerticalOptions="Fill" HasUnevenRows="True"
+                  ItemsSource="{Binding Activities}" 
+                  IsPullToRefreshEnabled="false">
+            <ListView.Header>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="50"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Label x:Name="Temp" Grid.Row="0" Grid.Column="0"  TextColor="White" FontSize="20" HorizontalOptions="Start" VerticalOptions="Center"/>
+                    <Image x:Name="im" Grid.Row="0" Grid.Column="1"  Aspect="AspectFill" HeightRequest="50" WidthRequest="50" HorizontalOptions="Center"/>
+                    <Button Grid.Row="0" Grid.Column="2" Text="Forecast" TextColor="White" HorizontalOptions="EndAndExpand"
+                        BackgroundColor="#066282" Clicked="GetForecast" />
+                    <Label x:Name="Condition" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" TextColor="White" FontSize="15" />
+                </Grid>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell StyleId="no-selection">
+                        <Grid VerticalOptions="FillAndExpand">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+
+                            <expandibleListView:CollapsibleControl  HorizontalOptions="Fill" VerticalOptions="Fill"
+                                         Name="{Binding name}" Date="{Binding date}"  BackgroundColor="#066282" Opacity="0.75"
+                                         Speaker="{Binding speakerName}" Place="{Binding place}">
+
+                                <expandibleListView:CollapsibleControl.ExpandedView>
+                                    <Grid HorizontalOptions="Fill" VerticalOptions="Fill" Padding="12" BackgroundColor="#042536">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                        </Grid.RowDefinitions>
+                                        <Label Grid.Row="0" Text="{Binding description}" FontSize="Small" TextColor="White"/>
+                                    </Grid>
+                                </expandibleListView:CollapsibleControl.ExpandedView>
+
+                            </expandibleListView:CollapsibleControl>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</ContentPage>

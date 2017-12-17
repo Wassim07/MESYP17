@@ -1,0 +1,2 @@
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.WinPhone\MESYP17.WinPhone.csproj;neutral
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\MESYP17.csproj;neutral

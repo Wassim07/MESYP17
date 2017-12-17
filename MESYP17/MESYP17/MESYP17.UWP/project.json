@@ -1,0 +1,25 @@
+﻿{
+  "dependencies": {
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3",
+    "Plugin.SQLite": "1.0.4",
+    "Xam.Plugin.Connectivity": "3.0.2-beta117",
+    "Xam.Plugin.Geolocator": "4.0.1",
+    "Xam.Plugins.Forms.ImageCircle": "1.8.1",
+    "Xam.Plugins.Messaging": "4.0.0",
+    "Xam.Plugins.Notifier": "2.1.0",
+    "Xam.Plugins.Settings": "3.0.1",
+    "Xamarin.Forms": "2.3.5.256-pre6",
+    "ZXing.Net.Mobile.Forms": "2.2.9"
+  },
+  "frameworks": {
+    "uap10.0": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MESYP17.Helpers.ExpandibleListView.CollapsibleControl">
+    <Grid HorizontalOptions="Fill" VerticalOptions="Fill">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <BoxView Grid.Row="0" HorizontalOptions="Fill" HeightRequest="1" BackgroundColor="#f5f5f7" />
+
+        <StackLayout x:Name="HeaderGrid" Grid.Row="1" Padding="5,5,5,5" Orientation="Vertical">
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="NameLabel" TextColor="White" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Start" />
+                <Image x:Name="ExpandImage" HorizontalOptions="EndAndExpand" BindingContext="{x:Reference Name=frame}" IsVisible="{Binding Path=IsVisible, Converter={StaticResource BooleanNegationConverter}}"  >
+                    <Image.Source>
+                        <OnPlatform x:TypeArguments="ImageSource" WinPhone="expand.png" Android="expand" iOS="expand.png"/>
+                    </Image.Source>
+                </Image>
+
+                <Image x:Name="CollapseImage" HorizontalOptions="EndAndExpand" BindingContext="{x:Reference Name=frame}" IsVisible="{Binding Path=IsVisible}"  >
+                    <Image.Source>
+                        <OnPlatform x:TypeArguments="ImageSource" WinPhone="collapse.png" Android="collapse" iOS="collapse.png"/>
+                    </Image.Source>
+                </Image>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" Padding="0,30,0,0">
+                <Label x:Name="SpeakerLabel" TextColor="White" FontSize="Medium" HorizontalOptions="Start" />
+                <Label x:Name="DateLabel" TextColor="#f5f5f7"  HorizontalOptions="EndAndExpand"  HorizontalTextAlignment="End" />
+            </StackLayout>
+            <Label x:Name="PlaceLabel" TextColor="#f5f5f7"  HorizontalOptions="EndAndExpand" HorizontalTextAlignment="End"  />
+        </StackLayout>
+
+        <Frame x:Name="frame" Grid.Row="2" Padding="0,0,0,0" HasShadow="False" BackgroundColor="Transparent"  IsVisible="False"  HorizontalOptions="Fill" VerticalOptions="Fill"/>
+
+        <!--<Grid x:Name="HeaderGrid" Grid.Row="1" Padding="14,14,14,14" >-->
+        <!--<Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label x:Name="NameLabel" TextColor="White" FontSize="Medium" HorizontalOptions="Fill" VerticalOptions="Fill"  Grid.Column="0"  Grid.Row="0"/>
+            <Label x:Name="DateLabel" Grid.Column="1" Grid.Row="0" TextColor="#f5f5f7"  Margin="0,0,16,0" HorizontalOptions="End" VerticalOptions="Fill" HorizontalTextAlignment="Start"  />
+            <Label x:Name="SpeakerLabel" TextColor="White" FontSize="Medium" HorizontalOptions="Fill" VerticalOptions="Fill"  Grid.Column="0"  Grid.Row="1"/>
+            <Label x:Name="PlaceLabel" Grid.Column="1" Grid.Row="1" TextColor="#f5f5f7" Margin="0,0,16,0" HorizontalOptions="End" VerticalOptions="Fill" HorizontalTextAlignment="Start"  />
+
+            <Image x:Name="ExpandImage" Grid.Column="2" HorizontalOptions="End" BindingContext="{x:Reference Name=frame}" IsVisible="{Binding Path=IsVisible, Converter={StaticResource BooleanNegationConverter}}"  >
+                <Image.Source>
+                    <OnPlatform x:TypeArguments="ImageSource" WinPhone="expand.png" Android="expand" iOS="expand.png"/>
+                </Image.Source>
+            </Image>
+
+            <Image x:Name="CollapseImage" Grid.Column="2" HorizontalOptions="End" BindingContext="{x:Reference Name=frame}" IsVisible="{Binding Path=IsVisible}"  >
+                <Image.Source>
+                    <OnPlatform x:TypeArguments="ImageSource" WinPhone="collapse.png" Android="collapse" iOS="collapse.png"/>
+                </Image.Source>
+            </Image>-->
+        <!--</Grid>
+
+        <Frame x:Name="frame" Grid.Row="2" Padding="0,0,0,0" HasShadow="False" BackgroundColor="Transparent"  IsVisible="False"  HorizontalOptions="Fill" VerticalOptions="Fill"/>-->
+    </Grid>
+</ContentView>

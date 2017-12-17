@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             x:Class="MESYP17.Views.ContactUsPage"
+             Title="Contact Us">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical"
+                 Padding="5,10,5,0">
+            <ListView  x:Name="MembersList"
+                       RowHeight="110"
+                       SeparatorColor="Black"
+                       BackgroundColor="White"
+                       ItemTapped="PhoneCall">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="10" />
+                                    <RowDefinition Height="25" />
+                                    <RowDefinition Height="60" />
+                                    <RowDefinition Height="15" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <controls:CircleImage Aspect="AspectFill" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Grid.RowSpan="3" >
+                                    <controls:CircleImage.Source>
+                                        <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding avatar}"  />
+                                    </controls:CircleImage.Source>
+                                </controls:CircleImage>
+                                <Label Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="1"
+                                       Text="{Binding fullName}" FontSize="17" TextColor="Black"/>
+                                <Label Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="2"
+                                       Text="{Binding poste}" FontSize="17" TextColor="Black"/>
+                                <Image Grid.Column="4" Grid.Row="2" Grid.RowSpan="2"
+                                       Source="phone.png"
+                                       HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="50" HeightRequest="40"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

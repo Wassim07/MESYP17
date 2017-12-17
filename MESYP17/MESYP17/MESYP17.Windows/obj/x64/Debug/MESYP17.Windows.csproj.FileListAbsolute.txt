@@ -1,0 +1,190 @@
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\sqlite3.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\App.xbf
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MainPage.xbf
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.xr.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.exe
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\resources.pri
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\AppxManifest.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.build.appxrecipe
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.WindowsStore.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\SQLite-net.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\SQLitePCL.raw.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.WinRT.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.WinRT.Tablet.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\zxing.portable.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ZXingNetMobile.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.WindowsStore.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.WindowsStore.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\SQLitePCL.raw.pri
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Core.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.WinRT.pri
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MESYP17.Windows.csprojResolveAssemblyReference.cache
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\App.g.i.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\App.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MainPage.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\App.xaml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MainPage.xaml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\App.xbf
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MainPage.xbf
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MESYP17.Windows.exe
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MESYP17.Windows.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MESYP17.Windows.csproj.GenerateResource.Cache
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\priconfig.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\layout.resfiles
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\resources.resfiles
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\pri.resfiles
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\qualifiers.txt
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\SQLitePCL.raw.pri.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.pri
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\Plugin.Connectivity.pri.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\sqlite3.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\App.xbf
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MainPage.xbf
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.xr.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.exe
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\resources.pri
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\AppxManifest.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.build.appxrecipe
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.WindowsStore.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.LocalNotifications.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.LocalNotifications.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\SQLite-net.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\SQLitePCL.raw.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.WinRT.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.WinRT.Tablet.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\zxing.portable.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ZXingNetMobile.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.WindowsStore.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\ImageCircle.Forms.Plugin.WindowsStore.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.LocalNotifications.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.LocalNotifications.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\SQLitePCL.raw.pri
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Core.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.WinRT.pri
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MESYP17.Windows.csprojResolveAssemblyReference.cache
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\App.g.i.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\App.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MainPage.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\App.xaml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MainPage.xaml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\App.xbf
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MainPage.xbf
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MESYP17.Windows.exe
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MESYP17.Windows.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\en-US\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MESYP17.Windows.csproj.GenerateResource.Cache
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\layout.resfiles
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\layout.resfiles.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\Resources.resfiles
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\Resources.resfiles.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\pri.resfiles
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\pri.resfiles.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\priconfig.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\priconfig.xml.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.pri
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\System.Runtime.InteropServices.RuntimeInformation\qualifiers.txt
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\priconfig.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\layout.resfiles
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\resources.resfiles
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\pri.resfiles
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\qualifiers.txt
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\SQLitePCL.raw.pri.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\ProjectArchitectures.txt

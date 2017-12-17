@@ -1,0 +1,195 @@
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.dll.config
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Newtonsoft.Json.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\SQLite-net.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\SQLitePCL.raw.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\zxing.portable.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ZXingNetMobile.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Newtonsoft.Json.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.csproj.App.config
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.csprojResolveAssemblyReference.cache
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.App.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ActivitesPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.InfolinePage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.LoginPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.RankingPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.UserDetailsPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ForecastPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ScanPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ContactUsPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.CameraScanningPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.dll.mdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.dll.mdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.csproj.App.config
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.App.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ActivitiesPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.InfolinePage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.LoginPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.RankingPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.UserDetailsPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ForecastPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ScanPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ContactUsPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.CameraScanningPage.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Helpers.ExpandibleListView.CollapsibleControl.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Page1.xaml.g.cs
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.dll.config
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Newtonsoft.Json.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\SQLite-net.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\SQLitePCL.raw.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\zxing.portable.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\ZXingNetMobile.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Newtonsoft.Json.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.dll
+C:\Users\falco\Desktop\Wassim\MESYP\Xamarin_Project\MVVM\v2\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.dll.config
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Newtonsoft.Json.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.LocalNotifications.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.LocalNotifications.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\SQLite-net.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\SQLitePCL.raw.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\zxing.portable.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ZXingNetMobile.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Newtonsoft.Json.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.LocalNotifications.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.LocalNotifications.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.csproj.App.config
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.csprojResolveAssemblyReference.cache
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.App.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ActivitiesPage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.LoginPage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.RankingPage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.UserDetailsPage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ForecastPage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ScanPage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.ContactUsPage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.CameraScanningPage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Helpers.ExpandibleListView.CollapsibleControl.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Page1.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.Views.VotePage.xaml.g.cs
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.dll
+C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\obj\Debug\MESYP17.pdb

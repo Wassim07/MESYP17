@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MESYP17.Views.LoginPage"
+             Icon="icon.png"
+             BackgroundImage="login_bckd.png">
+
+    <StackLayout Orientation="Horizontal"
+                 VerticalOptions="End"
+                 HorizontalOptions="Center"
+                 Padding="0,0,0,40"
+                 Spacing="30">
+
+        <Image Source="facebook.png"
+               WidthRequest="60"
+               HeightRequest="60">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer
+                Tapped="FacebookButton_OnClicked"
+                NumberOfTapsRequired="1" />
+            </Image.GestureRecognizers>
+        </Image>
+
+        <Image Source="linkedin.png"
+               WidthRequest="60"
+               HeightRequest="60">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer
+                Tapped="LinkedinButton_OnClicked"
+                NumberOfTapsRequired="1" />
+            </Image.GestureRecognizers>
+        </Image>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MESYP17.Views.VotePage"
+             Title="Vote"
+             BackgroundColor="#042536">
+    <ContentPage.Content>
+        <Grid VerticalOptions="CenterAndExpand">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            
+            
+            <Image 
+               x:Name="Team1Button" 
+               Grid.Row="0" Grid.Column="0"
+               Source="blue.png"
+               WidthRequest="150"
+               HeightRequest="150"
+               HorizontalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                Tapped="VoteForTeam1"
+                NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Label x:Name="Team1Name" 
+                   Grid.Row="1"
+                   Grid.Column="0"
+                   TextColor="White"
+                   FontSize="25"
+                   HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center"/>
+
+            <Image
+               x:Name="Team2Button" 
+               Grid.Row="0" Grid.Column="1"
+               Source="red.png"
+               WidthRequest="150"
+               HeightRequest="150"
+               HorizontalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                Tapped="VoteForTeam2"
+                NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Label x:Name="Team2Name" 
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   TextColor="White"
+                   FontSize="25"
+                   HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             xmlns:expandibleListView="clr-namespace:MESYP17.Helpers.ExpandibleListView;assembly=MESYP17"
+             x:Class="MESYP17.Views.UserDetailsPage"
+             Title="Details">
+    <Grid x:Name="grid" VerticalOptions="Fill" HorizontalOptions="Fill" Padding="0,0,0,0" BackgroundColor="#042536">
+        <ListView x:Name="ItemsListView" SeparatorVisibility="None" SeparatorColor="Transparent" BackgroundColor= "Transparent" HorizontalOptions="Fill" VerticalOptions="Fill" HasUnevenRows="True"
+                  ItemsSource="{Binding Activities}" 
+				  IsPullToRefreshEnabled="false">
+            <ListView.Header>
+                <StackLayout x:Name="stackLayout" Orientation="Vertical" BackgroundColor="#042536" Padding="0,0,0,30">
+                    <controls:CircleImage 
+                        x:Name="UserPicture"
+                        WidthRequest="200"
+                        HeightRequest="200"
+                        Aspect="AspectFill"
+                        HorizontalOptions="Center"/>
+                    <Label x:Name="name"  HorizontalOptions = "Center" Style = "{DynamicResource TitleStyle}" TextColor="White" FontSize="Medium"/>
+                    <Label x:Name="scoreWorkshop" HorizontalOptions="Center" Style = "{DynamicResource BodyStyle}" TextColor="White" FontSize="Medium"/>
+                </StackLayout>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell StyleId="no-selection">
+                        <Grid VerticalOptions="FillAndExpand">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <expandibleListView:CollapsibleControl  HorizontalOptions="Fill" VerticalOptions="Fill"
+                                         Name="{Binding name}" Date="{Binding date}" BackgroundColor="#066282"
+                                         Speaker="{Binding speakerName}" Place="{Binding place}">
+
+                                <expandibleListView:CollapsibleControl.ExpandedView>
+                                    <Grid HorizontalOptions="Fill" VerticalOptions="Fill" Padding="12" BackgroundColor="#042536">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto" />
+                                        </Grid.RowDefinitions>
+                                        <Label Grid.Row="0" Text="{Binding description}" FontSize="Small" TextColor="White"/>
+                                    </Grid>
+                                </expandibleListView:CollapsibleControl.ExpandedView>
+
+                            </expandibleListView:CollapsibleControl>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</ContentPage>

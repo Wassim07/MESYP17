@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             x:Class="MESYP17.Views.ScanPage"
+             Title="Scan"
+             BackgroundColor="#042536">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical"
+                 Padding="0,5,0,0">
+            <ListView  x:Name="RecentlyScannedList"
+                   BackgroundColor="#042536"
+                   IsPullToRefreshEnabled="True"
+                   RowHeight="120"
+                   SeparatorColor="#042536">
+                <ListView.Header>
+                    <StackLayout BackgroundColor="#066282" HorizontalOptions="Fill">
+                        <Label
+                            Text="Recently Scanned"
+                            TextColor="White"
+                            HorizontalOptions="Center"
+                            FontSize="25"/>
+                    </StackLayout>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid BackgroundColor="#042536">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="25" />
+                                    <RowDefinition Height="25" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <controls:CircleImage
+                                    Aspect="AspectFill"
+                                    HorizontalOptions="Center"
+                                    Grid.Column="0"
+                                    Grid.Row="0">
+                                    <controls:CircleImage.Source>
+                                        <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding avatar1}" />
+                                    </controls:CircleImage.Source>
+                                </controls:CircleImage>
+                                
+                                <Label Grid.Column="0" Grid.Row="1"
+                                   Text="{Binding fullName1}"  HorizontalOptions="Center" FontSize="10" TextColor="White"/>
+                                <Image Grid.Column="0" Grid.Row="2" 
+                                   HorizontalOptions="Center" WidthRequest="30" HeightRequest="20">
+                                    <Image.Source>
+                                        <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding country1}" />
+                                    </Image.Source>
+                                </Image>
+
+
+                                <controls:CircleImage
+                                    Aspect="AspectFill"
+                                    HorizontalOptions="Center"
+                                    Grid.Column="1"
+                                    Grid.Row="0">
+                                    <controls:CircleImage.Source>
+                                        <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding avatar2}" />
+                                    </controls:CircleImage.Source>
+                                </controls:CircleImage>
+                                <Label Grid.Column="1" Grid.Row="1"
+                                   Text="{Binding fullName2}"  HorizontalOptions="Center" FontSize="10" TextColor="White"/>
+
+                                <Image Grid.Column="1" Grid.Row="2" 
+                                   HorizontalOptions="Center" WidthRequest="30" HeightRequest="10">
+                                    <Image.Source>
+                                        <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding country2}" />
+                                    </Image.Source>
+                                </Image>
+
+
+                                <controls:CircleImage
+                                    Aspect="AspectFill"
+                                    HorizontalOptions="Center"
+                                    Grid.Column="2"
+                                    Grid.Row="0">
+                                    <controls:CircleImage.Source>
+                                        <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding avatar3}" />
+                                    </controls:CircleImage.Source>
+                                </controls:CircleImage>
+
+                                <Label Grid.Column="2" Grid.Row="1"
+                                   Text="{Binding fullName3}"  HorizontalOptions="Center" FontSize="10" TextColor="White"/>
+                                <Image Grid.Column="2" Grid.Row="2" 
+                                   HorizontalOptions="Center" WidthRequest="30" HeightRequest="10">
+                                    <Image.Source>
+                                        <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding country3}" />
+                                    </Image.Source>
+                                </Image>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button HorizontalOptions="Center"
+              BackgroundColor="#066282"
+              Text="Scan"
+              TextColor="White"
+              Clicked="ScanButton_OnClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-ISP0414</Machine>
+    <WindowsUser>falco</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>2ae894ae-4f5f-4880-8b7f-5b79a49bb614</PackageIdentityName>
+    <PackageIdentityPublisher>CN=falco</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>ADCDF78253E8D22573C62F502585013840EB8A2A20C415A19149A05CEC96254E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2ae894ae-4f5f-4880-8b7f-5b79a49bb614_1.0.0.0_x64__fq8jsaapzhjf0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2ae894ae-4f5f-4880-8b7f-5b79a49bb614_fq8jsaapzhjf0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2ae894ae-4f5f-4880-8b7f-5b79a49bb614</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=falco</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-23T12:34:08.734</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.exe">
+      <PackagePath>MESYP17.Windows.exe</PackagePath>
+      <Modified>2017-03-23T12:33:59.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\MESYP17.dll">
+      <PackagePath>MESYP17.dll</PackagePath>
+      <Modified>2017-03-23T12:31:01.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xam.Plugin.Geolocator.4.0.0.50-beta\lib\portable-net45+wp80+win8+wpa81\Plugin.Geolocator.Abstractions.dll">
+      <PackagePath>Plugin.Geolocator.Abstractions.dll</PackagePath>
+      <Modified>2017-03-22T18:20:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xam.Plugin.Geolocator.4.0.0.50-beta\lib\portable-net45+wp80+win8+wpa81\Plugin.Geolocator.dll">
+      <PackagePath>Plugin.Geolocator.dll</PackagePath>
+      <Modified>2017-03-22T18:20:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xam.Plugins.Messaging.3.2.1\lib\win8\Plugin.Messaging.Abstractions.dll">
+      <PackagePath>Plugin.Messaging.Abstractions.dll</PackagePath>
+      <Modified>2016-03-31T11:56:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xam.Plugins.Messaging.3.2.1\lib\win8\Plugin.Messaging.dll">
+      <PackagePath>Plugin.Messaging.dll</PackagePath>
+      <Modified>2016-03-31T11:56:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-03-14T20:30:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-12T21:01:17.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-12T21:01:17.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-12T21:01:17.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-12T21:01:17.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MESYP17.Windows.xr.xml">
+      <PackagePath>MESYP17.Windows.xr.xml</PackagePath>
+      <Modified>2017-02-12T22:26:41.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-03-23T12:33:59.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-03-23T12:33:59.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2015-11-17T06:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\falco\Documents\Visual Studio 2015\Projects\MESYP17\MESYP17\MESYP17.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-03-23T12:34:06.673</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

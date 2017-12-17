@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             x:Class="MESYP17.Views.RankingPage"
+             Title="Ranking"
+             BackgroundColor="#042536">
+    <ContentPage.Content>
+        <ListView  x:Name="RankingList"
+                   BackgroundColor="#042536"
+                   SeparatorColor="#ff471a"
+                   RowHeight="110"
+                   ItemsSource="{Binding Participants}"
+                   CachingStrategy="RecycleElement" 
+                   IsPullToRefreshEnabled="true" RefreshCommand="{Binding RefreshCommand}" IsRefreshing="{Binding IsBusy}">
+            <ListView.Header>
+                <StackLayout Orientation="Vertical"
+                             Padding="5,10,5,20">
+                    <Label x:Name="IEEE"
+                           FontSize="20"
+                           TextColor="White"
+                           Text="IEEE"
+                           HorizontalOptions="Start"/>
+                    <controls:CircleImage 
+                          x:Name="UserPicture"
+                          WidthRequest="150"
+                          HeightRequest="150"
+                          Aspect="AspectFill"
+                          HorizontalOptions="Center"/>
+                    <Label x:Name="UserName"
+                           FontSize="20"
+                           TextColor="White"
+                           HorizontalOptions="Center"/>
+                    <Label x:Name="UserScore"
+                           FontSize="20"
+                           TextColor="White"
+                           HorizontalOptions="Center"/>
+                    <StackLayout BackgroundColor="#066282">
+                        <Label Text="Ranking"
+                               TextColor="White"
+                               HorizontalOptions="Center"
+                               FontSize="30"/>
+                    </StackLayout>
+                </StackLayout>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid BackgroundColor="#042536">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="10" />
+                                <RowDefinition Height="25" />
+                                <RowDefinition Height="60" />
+                                <RowDefinition Height="15" />
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <controls:CircleImage 
+                                    Aspect="AspectFill"
+                                    Grid.Column="0" Grid.ColumnSpan="2"
+                                    Grid.Row="0" Grid.RowSpan="3" >
+                                <controls:CircleImage.Source>
+                                    <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding avatar}"  />
+                                </controls:CircleImage.Source>
+                            </controls:CircleImage>
+                            <Label Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="1"
+                                   Text="{Binding fullName}" FontSize="17" TextColor="White"/>
+                            <Label Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="2"
+                                   Text="{Binding score, StringFormat='Score : {0}'}" 
+                                   FontSize="17" TextColor="White"/>
+
+                            <controls:CircleImage 
+                                   Aspect="AspectFill"
+                                   Grid.Column="4" Grid.Row="2" Grid.RowSpan="2"
+                                   HorizontalOptions="Start" VerticalOptions="Start" 
+                                   WidthRequest="60" HeightRequest="40">
+                                <controls:CircleImage.Source>
+                                    <UriImageSource  CacheValidity="10" CachingEnabled="True" Uri="{Binding country}" />
+                                </controls:CircleImage.Source>
+                            </controls:CircleImage>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>
